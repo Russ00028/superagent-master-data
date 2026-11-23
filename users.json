@@ -1,0 +1,921 @@
+{
+  "version": 2,
+  "updated_at": "2026-11-22 00:02:52",
+  "users": {
+    "aabby": {
+      "created": "2026-11-20 23:46:27",
+      "display_name": "AQUINO, ABBY SHEKINAH",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "AQUINO, ABBY SHEKINAH",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:46:27",
+      "username": "aabby"
+    },
+    "aaslia": {
+      "created": "2026-11-20 23:41:12",
+      "display_name": "ABUBACAR ASLIA RAMOS",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "ABUBACAR ASLIA RAMOS",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:41:12",
+      "username": "aaslia"
+    },
+    "achristian": {
+      "created": "2026-11-20 23:52:00",
+      "display_name": "ABALETA CHRISTIAN",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "ABALETA CHRISTIAN",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:52:00",
+      "username": "achristian"
+    },
+    "admin": {
+      "created": "2026-11-19 02:33:01",
+      "display_name": "Administrator",
+      "enabled": true,
+      "last_login": "2026-11-20 21:51:29",
+      "must_change_password": true,
+      "name": "Administrator",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "pbkdf2:sha256:1000000$N7Y63mdpBeq4ZbZD$b7e1a563d47537034722d95262e4434f343ac9fbe59fb58c345a5208b2dc2ccf",
+      "role": "admin",
+      "updated": "2026-11-19 02:33:01",
+      "username": "admin"
+    },
+    "ajuanito": {
+      "created": "2026-11-20 23:48:27",
+      "display_name": "AFURONG JUANITO",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "AFURONG JUANITO",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:48:27",
+      "username": "ajuanito"
+    },
+    "ajunelle": {
+      "created": "2026-11-20 23:48:52",
+      "display_name": "AMANTE JUNELLE",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "AMANTE JUNELLE",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:48:52",
+      "username": "ajunelle"
+    },
+    "anerie": {
+      "created": "2026-11-20 23:51:32",
+      "display_name": "NERIE AMPONG",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "NERIE AMPONG",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:51:32",
+      "username": "anerie"
+    },
+    "apauline": {
+      "created": "2026-11-20 23:49:54",
+      "display_name": "AGUNDAY, PAULINE",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "AGUNDAY, PAULINE",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:49:54",
+      "username": "apauline"
+    },
+    "bandieson": {
+      "created": "2026-11-20 23:46:34",
+      "display_name": "BENITEZ  ANDIESON SINANG",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "BENITEZ  ANDIESON SINANG",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:46:34",
+      "username": "bandieson"
+    },
+    "bcecile": {
+      "created": "2026-11-20 23:46:58",
+      "display_name": "BALLEGA CECILE",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "BALLEGA CECILE",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:46:58",
+      "username": "bcecile"
+    },
+    "bdarren": {
+      "created": "2026-11-20 23:51:05",
+      "display_name": "DARREN BAJADOR",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "DARREN BAJADOR",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:51:05",
+      "username": "bdarren"
+    },
+    "bgemma": {
+      "created": "2026-11-20 23:49:04",
+      "display_name": "SAN BUENAVENTURA,GEMMA",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "SAN BUENAVENTURA,GEMMA",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:49:04",
+      "username": "bgemma"
+    },
+    "bjhoanne": {
+      "created": "2026-11-20 23:39:45",
+      "display_name": "BARABAS, JHOANNE REYES",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "BARABAS, JHOANNE REYES",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:39:45",
+      "username": "bjhoanne"
+    },
+    "bjonel": {
+      "created": "2026-11-20 23:52:46",
+      "display_name": "BANTOG JONEL",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "BANTOG JONEL",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:52:46",
+      "username": "bjonel"
+    },
+    "bralph": {
+      "created": "2026-11-20 23:51:11",
+      "display_name": "RALPH BARCELONA",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "RALPH BARCELONA",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:51:11",
+      "username": "bralph"
+    },
+    "calcantara": {
+      "created": "2026-11-20 23:48:44",
+      "display_name": "CATHERINE JOY ALCANTARA",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "CATHERINE JOY ALCANTARA",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:48:44",
+      "username": "calcantara"
+    },
+    "cjohn": {
+      "created": "2026-11-20 23:41:20",
+      "display_name": "CABRERA, JOHN DARYL SUMUGAT",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "CABRERA, JOHN DARYL SUMUGAT",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:41:20",
+      "username": "cjohn"
+    },
+    "clester": {
+      "created": "2026-11-20 23:50:58",
+      "display_name": "LESTER CUAYCONG",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "LESTER CUAYCONG",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:50:58",
+      "username": "clester"
+    },
+    "dmikee": {
+      "created": "2026-11-20 23:46:53",
+      "display_name": "DELA CRUZ MIKEE",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "DELA CRUZ MIKEE",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:46:53",
+      "username": "dmikee"
+    },
+    "dsara": {
+      "created": "2026-11-20 23:52:25",
+      "display_name": "SARA MAE DUNGON",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "SARA MAE DUNGON",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:52:25",
+      "username": "dsara"
+    },
+    "dvicky": {
+      "created": "2026-11-20 23:49:11",
+      "display_name": "DUBLIN VICKY",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "DUBLIN VICKY",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:49:11",
+      "username": "dvicky"
+    },
+    "easdulo": {
+      "created": "2026-11-20 23:50:51",
+      "display_name": "EMMY ASDULO",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "EMMY ASDULO",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:50:51",
+      "username": "easdulo"
+    },
+    "egetsminia": {
+      "created": "2026-11-20 23:48:58",
+      "display_name": "ESTRELLADO GETSIMNIA",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "ESTRELLADO GETSIMNIA",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:48:58",
+      "username": "egetsminia"
+    },
+    "ekenneth": {
+      "created": "2026-11-20 23:46:40",
+      "display_name": "ENRIQUEZ KENNETH",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "ENRIQUEZ KENNETH",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:46:40",
+      "username": "ekenneth"
+    },
+    "flovelyn": {
+      "created": "2026-11-20 23:46:46",
+      "display_name": "FUENTES LOVELYN",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "FUENTES LOVELYN",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:46:46",
+      "username": "flovelyn"
+    },
+    "ghannizel": {
+      "created": "2026-11-20 23:39:58",
+      "display_name": "GAWARAN, HANNIZEL",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": true,
+      "name": "GAWARAN, HANNIZEL",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "pbkdf2:sha256:1000000$Rxf1gzhJc1pd8I2R$68b90f261e8a71ab7de7e352beeb51308201526ff537c14812e06abf55941d25",
+      "role": "admin",
+      "updated": "2026-11-20 23:39:58",
+      "username": "ghannizel"
+    },
+    "gjesselyn": {
+      "created": "2026-11-20 23:52:18",
+      "display_name": "GARCIA JESSELYN",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "GARCIA JESSELYN",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:52:18",
+      "username": "gjesselyn"
+    },
+    "hymanzeth": {
+      "created": "2026-11-20 23:41:27",
+      "display_name": "HERRERA, YMANZETH",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "HERRERA, YMANZETH",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:41:27",
+      "username": "hymanzeth"
+    },
+    "jailyn": {
+      "created": "2026-11-20 23:50:07",
+      "display_name": "JAPSON AILYN",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "JAPSON AILYN",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:50:07",
+      "username": "jailyn"
+    },
+    "jgatchalian": {
+      "created": "2026-11-20 23:52:05",
+      "display_name": "JEFF MERWIN GATCHALIAN",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "JEFF MERWIN GATCHALIAN",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:52:05",
+      "username": "jgatchalian"
+    },
+    "jignacio": {
+      "created": "2026-11-20 23:50:13",
+      "display_name": "IGNACIO JOAN",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "IGNACIO JOAN",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:50:13",
+      "username": "jignacio"
+    },
+    "johnlouie": {
+      "created": "2026-11-19 04:08:07",
+      "display_name": "JL",
+      "enabled": true,
+      "last_login": "2026-11-21 03:01:22",
+      "must_change_password": true,
+      "name": "JL",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "pbkdf2:sha256:1000000$dtJ7UFuLr4ZBG7JB$e26c153ef87fa0466e382ff3904866fc2cae8e299dbb412286c8d55874d310fe",
+      "role": "admin",
+      "updated": "2026-11-19 04:08:07",
+      "username": "johnlouie"
+    },
+    "jron": {
+      "created": "2026-11-20 22:29:14",
+      "display_name": "JERON",
+      "enabled": true,
+      "last_login": "2026-11-21 01:52:40",
+      "must_change_password": false,
+      "name": "JERON",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "pbkdf2:sha256:1000000$RDaWhodXdMHyMMHi$1841d033304d2fe452b13a0613721bd7d89bb70bba99230d166101e7d46ce50d",
+      "role": "admin",
+      "updated": "2026-11-20 22:32:59",
+      "username": "jron"
+    },
+    "jsalazar": {
+      "created": "2026-11-20 23:50:39",
+      "display_name": "SALAZAR JE-AR",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "SALAZAR JE-AR",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:50:39",
+      "username": "jsalazar"
+    },
+    "jsamson": {
+      "created": "2026-11-20 23:50:45",
+      "display_name": "SAMSON JANELLA",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "SAMSON JANELLA",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:50:45",
+      "username": "jsamson"
+    },
+    "lalexander": {
+      "created": "2026-11-20 23:51:52",
+      "display_name": "LEVISTE ALEXANDER J",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "LEVISTE ALEXANDER J",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:51:52",
+      "username": "lalexander"
+    },
+    "lramon": {
+      "created": "2026-11-20 23:39:34",
+      "display_name": "LAUDATO RAMON",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": true,
+      "name": "LAUDATO RAMON",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "pbkdf2:sha256:1000000$lfkcnXjgbEr6NzNy$83983c81269c0277745681de1dfcba04b35d2d97ad37ec36979e84e9caf6981d",
+      "role": "admin",
+      "updated": "2026-11-20 23:39:34",
+      "username": "lramon"
+    },
+    "malesing": {
+      "created": "2026-11-20 23:50:31",
+      "display_name": "ALESING MELCHIE",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "ALESING MELCHIE",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:50:31",
+      "username": "malesing"
+    },
+    "mangie": {
+      "created": "2026-11-20 23:49:43",
+      "display_name": "MATEO ANGIE",
+      "enabled": true,
+      "last_login": "2026-11-21 00:15:46",
+      "must_change_password": false,
+      "name": "MATEO ANGIE",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:49:43",
+      "username": "mangie"
+    },
+    "mjonas": {
+      "created": "2026-11-20 23:49:37",
+      "display_name": "MEDILO JONAS WYNE",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "MEDILO JONAS WYNE",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:49:37",
+      "username": "mjonas"
+    },
+    "mjuvyylyn": {
+      "created": "2026-11-20 23:40:42",
+      "display_name": "MALLILIN, JUVYYLYN",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "MALLILIN, JUVYYLYN",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:40:42",
+      "username": "mjuvyylyn"
+    },
+    "mkiersten": {
+      "created": "2026-11-20 23:51:46",
+      "display_name": "MANUEL KIERSTEN",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "MANUEL KIERSTEN",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:51:46",
+      "username": "mkiersten"
+    },
+    "mpaolo": {
+      "created": "2026-11-20 23:41:05",
+      "display_name": "MAHOR PAOLO TOPACIO",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "MAHOR PAOLO TOPACIO",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:41:05",
+      "username": "mpaolo"
+    },
+    "msantos": {
+      "created": "2026-11-20 23:50:01",
+      "display_name": "MAUI SANTOS",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "MAUI SANTOS",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:50:01",
+      "username": "msantos"
+    },
+    "nravina": {
+      "created": "2026-11-20 23:49:48",
+      "display_name": "NEITSZCHE RAVINA",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "NEITSZCHE RAVINA",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:49:48",
+      "username": "nravina"
+    },
+    "pcharles": {
+      "created": "2026-11-20 23:48:06",
+      "display_name": "PALACIO CHARLES PRINCETON",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "PALACIO CHARLES PRINCETON",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:48:06",
+      "username": "pcharles"
+    },
+    "pmichael": {
+      "created": "2026-11-20 23:40:11",
+      "display_name": "PALOMA MICHAEL VINCENT OGSOMER",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "PALOMA MICHAEL VINCENT OGSOMER",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:40:11",
+      "username": "pmichael"
+    },
+    "pnino": {
+      "created": "2026-11-20 23:49:28",
+      "display_name": "PEREZ NIÑO",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "PEREZ NIÑO",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:49:28",
+      "username": "pnino"
+    },
+    "rbautista": {
+      "created": "2026-11-20 23:50:25",
+      "display_name": "BAUTISTA RICHARD JOHN",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "BAUTISTA RICHARD JOHN",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:50:25",
+      "username": "rbautista"
+    },
+    "rdina": {
+      "created": "2026-11-20 23:40:55",
+      "display_name": "ROSILLON, DINA",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "ROSILLON, DINA",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:40:55",
+      "username": "rdina"
+    },
+    "russel": {
+      "created": "2026-11-19 02:33:38",
+      "display_name": "JOHN",
+      "enabled": true,
+      "last_login": "2026-11-22 00:02:52",
+      "must_change_password": false,
+      "name": "JOHN",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "pbkdf2:sha256:1000000$3rl1np6PDDMHZVja$e6ff58d2082cd7ee9d5eefbd02cc3d9b71119902f2537a548a173099670a968d",
+      "role": "admin",
+      "updated": "2026-11-20 21:51:46",
+      "username": "russel"
+    },
+    "sgervin": {
+      "created": "2026-11-20 23:51:17",
+      "display_name": "GERVIN SAMBILAY",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "GERVIN SAMBILAY",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:51:17",
+      "username": "sgervin"
+    },
+    "smichael": {
+      "created": "2026-11-20 23:41:33",
+      "display_name": "STAPLES, MICHAEL JOHN",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "STAPLES, MICHAEL JOHN",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:41:33",
+      "username": "smichael"
+    },
+    "tjaypee": {
+      "created": "2026-11-20 23:53:59",
+      "display_name": "TAN JAYPEE FERRER",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "TAN JAYPEE FERRER",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "viewer",
+      "updated": "2026-11-20 23:53:59",
+      "username": "tjaypee"
+    },
+    "verwin": {
+      "created": "2026-11-20 23:40:31",
+      "display_name": "VAZQUEZ, ERWIN JANLUIS",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": true,
+      "name": "VAZQUEZ, ERWIN JANLUIS",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "pbkdf2:sha256:1000000$lJtnJyhmGQ2tSent$82b2c38a1f6371e81e6d18f749b0439e0f090c66df875ebf3f1c1423e9e15e21",
+      "role": "admin",
+      "updated": "2026-11-20 23:40:31",
+      "username": "verwin"
+    },
+    "vjianne": {
+      "created": "2026-11-20 23:52:12",
+      "display_name": "VARGAS MARY JIANNE",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "VARGAS MARY JIANNE",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:52:12",
+      "username": "vjianne"
+    },
+    "vreyna": {
+      "created": "2026-11-20 23:44:09",
+      "display_name": "VILLAFUERTE, REYNA LISSA",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": true,
+      "name": "VILLAFUERTE, REYNA LISSA",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "pbkdf2:sha256:1000000$CiluL7W7ftUrFNBx$db9c35ee01261c789267706cbc80adc5d90c2cadd0bae05f99b306edf6c40b0a",
+      "role": "admin",
+      "updated": "2026-11-20 23:44:09",
+      "username": "vreyna"
+    },
+    "vron": {
+      "created": "2026-11-20 23:46:10",
+      "display_name": "VASQUEZ RON CALUMPIANO",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "VASQUEZ RON CALUMPIANO",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:46:10",
+      "username": "vron"
+    },
+    "vshane": {
+      "created": "2026-11-20 23:49:18",
+      "display_name": "VILLANUEVA SHANE MARIE",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "VILLANUEVA SHANE MARIE",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:49:18",
+      "username": "vshane"
+    },
+    "vvil": {
+      "created": "2026-11-20 23:45:31",
+      "display_name": "VILLA  VIL MARK PANOGAN",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "VILLA  VIL MARK PANOGAN",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:45:31",
+      "username": "vvil"
+    },
+    "vvincent": {
+      "created": "2026-11-20 23:51:39",
+      "display_name": "VERE VINCENT",
+      "enabled": true,
+      "last_login": "",
+      "must_change_password": false,
+      "name": "VERE VINCENT",
+      "nodes": [
+        "*"
+      ],
+      "password_hash": "",
+      "role": "operator",
+      "updated": "2026-11-20 23:51:39",
+      "username": "vvincent"
+    }
+  }
+}
